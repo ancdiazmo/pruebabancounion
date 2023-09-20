@@ -1,0 +1,278 @@
+2023-09-20 14:18:02.978  INFO 14824 --- [main] c.b.p.PruebabancounionApplicationTests   : Starting PruebabancounionApplicationTests using Java 11.0.12 on DESKTOP-C21STNM with PID 14824 (started by AndresCamilo in C:\Users\AndresCamilo\VisualStudioCode-workspace\BancoUnion\BancoUnion\pruebabancounion)
+2023-09-20 14:18:02.978  INFO 14824 --- [main] c.b.p.PruebabancounionApplicationTests   : No active profile set, falling back to 1 default profile: "default"
+2023-09-20 14:18:03.930  INFO 14824 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-09-20 14:18:04.044  INFO 14824 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 94 ms. Found 2 JPA repository interfaces.
+2023-09-20 14:18:04.928  INFO 14824 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2023-09-20 14:18:04.928  WARN 14824 --- [main] com.zaxxer.hikari.util.DriverDataSource  : Registered driver with driverClassName=oracle.jdbc.driver.OracleDriver was not found, trying direct instantiation.
+2023-09-20 14:18:05.511  INFO 14824 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2023-09-20 14:18:05.600  INFO 14824 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-09-20 14:18:05.678  INFO 14824 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.6.15.Final
+2023-09-20 14:18:05.950  INFO 14824 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-09-20 14:18:06.123  INFO 14824 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.Oracle12cDialect
+2023-09-20 14:18:07.062  INFO 14824 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-09-20 14:18:07.062  INFO 14824 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-09-20 14:18:07.847  WARN 14824 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-09-20 14:18:08.646  INFO 14824 --- [main] c.b.p.PruebabancounionApplicationTests   : Started PruebabancounionApplicationTests in 6.166 seconds (JVM running for 7.501)
+2023-09-20 14:18:08.953  INFO 14824 --- [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-09-20 14:18:08.960  INFO 14824 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2023-09-20 14:18:08.981  INFO 14824 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2023-09-20 14:29:33.750  INFO 18460 --- [main] c.b.p.PruebabancounionApplicationTests   : Starting PruebabancounionApplicationTests using Java 11.0.12 on DESKTOP-C21STNM with PID 18460 (started by AndresCamilo in C:\Users\AndresCamilo\VisualStudioCode-workspace\BancoUnion\BancoUnion\pruebabancounion)
+2023-09-20 14:29:33.764  INFO 18460 --- [main] c.b.p.PruebabancounionApplicationTests   : No active profile set, falling back to 1 default profile: "default"
+2023-09-20 14:29:34.672  INFO 18460 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-09-20 14:29:34.767  INFO 18460 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 73 ms. Found 2 JPA repository interfaces.
+2023-09-20 14:29:35.567  INFO 18460 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2023-09-20 14:29:35.583  WARN 18460 --- [main] com.zaxxer.hikari.util.DriverDataSource  : Registered driver with driverClassName=oracle.jdbc.driver.OracleDriver was not found, trying direct instantiation.
+2023-09-20 14:29:36.195  INFO 18460 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2023-09-20 14:29:36.282  INFO 18460 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-09-20 14:29:36.366  INFO 18460 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.6.15.Final
+2023-09-20 14:29:36.606  INFO 18460 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-09-20 14:29:36.796  INFO 18460 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.Oracle12cDialect
+2023-09-20 14:29:37.717  INFO 18460 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-09-20 14:29:37.736  INFO 18460 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-09-20 14:29:38.514  WARN 18460 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-09-20 14:29:39.362  INFO 18460 --- [main] c.b.p.PruebabancounionApplicationTests   : Started PruebabancounionApplicationTests in 6.057 seconds (JVM running for 7.375)
+2023-09-20 14:29:39.596  INFO 18460 --- [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-09-20 14:29:39.601  INFO 18460 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2023-09-20 14:29:39.622  INFO 18460 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2023-09-20 14:30:14.783  INFO 18588 --- [main] c.b.p.PruebabancounionApplicationTests   : Starting PruebabancounionApplicationTests using Java 11.0.12 on DESKTOP-C21STNM with PID 18588 (started by AndresCamilo in C:\Users\AndresCamilo\VisualStudioCode-workspace\BancoUnion\BancoUnion\pruebabancounion)
+2023-09-20 14:30:14.800  INFO 18588 --- [main] c.b.p.PruebabancounionApplicationTests   : No active profile set, falling back to 1 default profile: "default"
+2023-09-20 14:30:15.659  INFO 18588 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-09-20 14:30:15.739  INFO 18588 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 66 ms. Found 2 JPA repository interfaces.
+2023-09-20 14:30:16.532  INFO 18588 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2023-09-20 14:30:16.532  WARN 18588 --- [main] com.zaxxer.hikari.util.DriverDataSource  : Registered driver with driverClassName=oracle.jdbc.driver.OracleDriver was not found, trying direct instantiation.
+2023-09-20 14:30:17.050  INFO 18588 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2023-09-20 14:30:17.153  INFO 18588 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-09-20 14:30:17.254  INFO 18588 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.6.15.Final
+2023-09-20 14:30:17.493  INFO 18588 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-09-20 14:30:17.664  INFO 18588 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.Oracle12cDialect
+2023-09-20 14:30:18.674  INFO 18588 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-09-20 14:30:18.674  INFO 18588 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-09-20 14:30:19.402  WARN 18588 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-09-20 14:30:20.217  INFO 18588 --- [main] c.b.p.PruebabancounionApplicationTests   : Started PruebabancounionApplicationTests in 5.856 seconds (JVM running for 7.064)
+2023-09-20 14:30:20.443  INFO 18588 --- [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-09-20 14:30:20.460  INFO 18588 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2023-09-20 14:30:20.487  INFO 18588 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2023-09-20 14:34:02.022  INFO 15668 --- [main] c.b.p.PruebabancounionApplicationTests   : Starting PruebabancounionApplicationTests using Java 11.0.12 on DESKTOP-C21STNM with PID 15668 (started by AndresCamilo in C:\Users\AndresCamilo\VisualStudioCode-workspace\BancoUnion\BancoUnion\pruebabancounion)
+2023-09-20 14:34:02.025  INFO 15668 --- [main] c.b.p.PruebabancounionApplicationTests   : No active profile set, falling back to 1 default profile: "default"
+2023-09-20 14:34:02.921  INFO 15668 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-09-20 14:34:03.013  INFO 15668 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 68 ms. Found 2 JPA repository interfaces.
+2023-09-20 14:34:03.847  INFO 15668 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2023-09-20 14:34:03.867  WARN 15668 --- [main] com.zaxxer.hikari.util.DriverDataSource  : Registered driver with driverClassName=oracle.jdbc.driver.OracleDriver was not found, trying direct instantiation.
+2023-09-20 14:34:04.441  INFO 15668 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2023-09-20 14:34:04.554  INFO 15668 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-09-20 14:34:04.655  INFO 15668 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.6.15.Final
+2023-09-20 14:34:04.926  INFO 15668 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-09-20 14:34:05.108  INFO 15668 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.Oracle12cDialect
+2023-09-20 14:34:05.987  INFO 15668 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-09-20 14:34:05.995  INFO 15668 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-09-20 14:34:06.835  WARN 15668 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-09-20 14:34:07.721  INFO 15668 --- [main] c.b.p.PruebabancounionApplicationTests   : Started PruebabancounionApplicationTests in 6.157 seconds (JVM running for 7.378)
+2023-09-20 14:34:07.979  INFO 15668 --- [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-09-20 14:34:07.979  INFO 15668 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2023-09-20 14:34:08.008  INFO 15668 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2023-09-20 14:34:55.227  INFO 11812 --- [main] c.b.p.PruebabancounionApplication        : Starting PruebabancounionApplication using Java 11.0.12 on DESKTOP-C21STNM with PID 11812 (C:\Users\AndresCamilo\VisualStudioCode-workspace\BancoUnion\BancoUnion\pruebabancounion\target\classes started by AndresCamilo in C:\Users\AndresCamilo\VisualStudioCode-workspace\BancoUnion\BancoUnion\pruebabancounion)
+2023-09-20 14:34:55.233  INFO 11812 --- [main] c.b.p.PruebabancounionApplication        : No active profile set, falling back to 1 default profile: "default"
+2023-09-20 14:34:56.147  INFO 11812 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-09-20 14:34:56.246  INFO 11812 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 81 ms. Found 2 JPA repository interfaces.
+2023-09-20 14:34:57.153  INFO 11812 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2023-09-20 14:34:57.168  INFO 11812 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-09-20 14:34:57.169  INFO 11812 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.79]
+2023-09-20 14:34:57.325  INFO 11812 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-09-20 14:34:57.326  INFO 11812 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2034 ms
+2023-09-20 14:34:57.616  INFO 11812 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2023-09-20 14:34:57.624  WARN 11812 --- [main] com.zaxxer.hikari.util.DriverDataSource  : Registered driver with driverClassName=oracle.jdbc.driver.OracleDriver was not found, trying direct instantiation.
+2023-09-20 14:34:57.995  INFO 11812 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2023-09-20 14:34:58.061  INFO 11812 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-09-20 14:34:58.139  INFO 11812 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.6.15.Final
+2023-09-20 14:34:58.436  INFO 11812 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-09-20 14:34:58.646  INFO 11812 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.Oracle12cDialect
+2023-09-20 14:34:59.424  INFO 11812 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-09-20 14:34:59.435  INFO 11812 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-09-20 14:34:59.862  WARN 11812 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-09-20 14:35:00.360  INFO 11812 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2023-09-20 14:35:00.376  INFO 11812 --- [main] c.b.p.PruebabancounionApplication        : Started PruebabancounionApplication in 5.709 seconds (JVM running for 6.28)
+2023-09-20 14:36:04.599  INFO 11380 --- [main] c.b.p.PruebabancounionApplication        : Starting PruebabancounionApplication using Java 11.0.12 on DESKTOP-C21STNM with PID 11380 (C:\Users\AndresCamilo\VisualStudioCode-workspace\BancoUnion\BancoUnion\pruebabancounion\target\classes started by AndresCamilo in C:\Users\AndresCamilo\VisualStudioCode-workspace\BancoUnion\BancoUnion\pruebabancounion)
+2023-09-20 14:36:04.601  INFO 11380 --- [main] c.b.p.PruebabancounionApplication        : No active profile set, falling back to 1 default profile: "default"
+2023-09-20 14:36:05.625  INFO 11380 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-09-20 14:36:05.721  INFO 11380 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 80 ms. Found 2 JPA repository interfaces.
+2023-09-20 14:36:06.741  INFO 11380 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2023-09-20 14:36:06.757  INFO 11380 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-09-20 14:36:06.757  INFO 11380 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.79]
+2023-09-20 14:36:06.953  INFO 11380 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-09-20 14:36:06.954  INFO 11380 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2285 ms
+2023-09-20 14:36:07.268  INFO 11380 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2023-09-20 14:36:07.287  WARN 11380 --- [main] com.zaxxer.hikari.util.DriverDataSource  : Registered driver with driverClassName=oracle.jdbc.driver.OracleDriver was not found, trying direct instantiation.
+2023-09-20 14:36:07.671  INFO 11380 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2023-09-20 14:36:07.754  INFO 11380 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-09-20 14:36:07.854  INFO 11380 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.6.15.Final
+2023-09-20 14:36:08.149  INFO 11380 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-09-20 14:36:08.319  INFO 11380 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.Oracle12cDialect
+2023-09-20 14:36:09.289  INFO 11380 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-09-20 14:36:09.302  INFO 11380 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-09-20 14:36:09.742  WARN 11380 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-09-20 14:36:10.334  INFO 11380 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2023-09-20 14:36:10.347  INFO 11380 --- [main] c.b.p.PruebabancounionApplication        : Started PruebabancounionApplication in 6.41 seconds (JVM running for 6.991)
+2023-09-20 14:36:18.121  INFO 11380 --- [http-nio-8080-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-09-20 14:36:18.122  INFO 11380 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-09-20 14:36:18.124  INFO 11380 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2023-09-20 14:36:25.860  INFO 11380 --- [http-nio-8080-exec-4] c.b.p.controller.EmployeeController      : Saving data by post: EmployeeDTO [id=0, name=Juan Camilo Diaz Correa, salary=1100000, department=Department [id=1, name=RRHH]]
+2023-09-20 14:36:42.306  INFO 11380 --- [http-nio-8080-exec-6] c.b.p.controller.EmployeeController      : Deleting data: EmployeeDTO [id=28, name=null, salary=0, department=null]
+2023-09-20 14:37:17.541  INFO 17104 --- [main] c.b.p.PruebabancounionApplication        : Starting PruebabancounionApplication using Java 11.0.12 on DESKTOP-C21STNM with PID 17104 (C:\Users\AndresCamilo\VisualStudioCode-workspace\BancoUnion\BancoUnion\pruebabancounion\target\classes started by AndresCamilo in C:\Users\AndresCamilo\VisualStudioCode-workspace\BancoUnion\BancoUnion\pruebabancounion)
+2023-09-20 14:37:17.560  INFO 17104 --- [main] c.b.p.PruebabancounionApplication        : No active profile set, falling back to 1 default profile: "default"
+2023-09-20 14:37:18.535  INFO 17104 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-09-20 14:37:18.639  INFO 17104 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 75 ms. Found 2 JPA repository interfaces.
+2023-09-20 14:37:19.674  INFO 17104 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2023-09-20 14:37:19.688  INFO 17104 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-09-20 14:37:19.689  INFO 17104 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.79]
+2023-09-20 14:37:19.889  INFO 17104 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-09-20 14:37:19.889  INFO 17104 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2248 ms
+2023-09-20 14:37:20.187  INFO 17104 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2023-09-20 14:37:20.202  WARN 17104 --- [main] com.zaxxer.hikari.util.DriverDataSource  : Registered driver with driverClassName=oracle.jdbc.driver.OracleDriver was not found, trying direct instantiation.
+2023-09-20 14:37:20.543  INFO 17104 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2023-09-20 14:37:20.623  INFO 17104 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-09-20 14:37:20.708  INFO 17104 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.6.15.Final
+2023-09-20 14:37:20.964  INFO 17104 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-09-20 14:37:21.174  INFO 17104 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.Oracle12cDialect
+2023-09-20 14:37:22.107  INFO 17104 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-09-20 14:37:22.123  INFO 17104 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-09-20 14:37:22.667  WARN 17104 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-09-20 14:37:23.276  INFO 17104 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2023-09-20 14:37:23.290  INFO 17104 --- [main] c.b.p.PruebabancounionApplication        : Started PruebabancounionApplication in 6.344 seconds (JVM running for 7.204)
+2023-09-20 14:37:28.161  INFO 17104 --- [http-nio-8080-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-09-20 14:37:28.162  INFO 17104 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-09-20 14:37:28.164  INFO 17104 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2023-09-20 14:37:43.227  INFO 17104 --- [http-nio-8080-exec-4] c.b.p.controller.EmployeeController      : Saving data by post: EmployeeDTO [id=0, name=Juan Camilo Diaz Correa, salary=1100000, department=Department [id=1, name=RRHH]]
+2023-09-20 14:37:58.153  INFO 17104 --- [http-nio-8080-exec-6] c.b.p.controller.EmployeeController      : Deleting data: EmployeeDTO [id=29, name=null, salary=0, department=null]
+2023-09-20 14:38:23.696  WARN 17104 --- [http-nio-8080-exec-8] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.bind.MethodArgumentNotValidException: Validation failed for argument [0] in public org.springframework.http.ResponseEntity<com.bancounion.pruebabancounion.dto.DepartmentDTO> com.bancounion.pruebabancounion.controller.DepartmentController.add(com.bancounion.pruebabancounion.dto.DepartmentDTO): [Field error in object 'departmentDTO' on field 'name': rejected value []; codes [NotBlank.departmentDTO.name,NotBlank.name,NotBlank.java.lang.String,NotBlank]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [departmentDTO.name,name]; arguments []; default message [name]]; default message [DepartmentDTO.name shouldn't be blank]] ]
+2023-09-20 14:38:30.796  WARN 17104 --- [http-nio-8080-exec-10] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.bind.MethodArgumentNotValidException: Validation failed for argument [0] in public org.springframework.http.ResponseEntity<com.bancounion.pruebabancounion.dto.DepartmentDTO> com.bancounion.pruebabancounion.controller.DepartmentController.add(com.bancounion.pruebabancounion.dto.DepartmentDTO): [Field error in object 'departmentDTO' on field 'name': rejected value [   ]; codes [NotBlank.departmentDTO.name,NotBlank.name,NotBlank.java.lang.String,NotBlank]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [departmentDTO.name,name]; arguments []; default message [name]]; default message [DepartmentDTO.name shouldn't be blank]] ]
+2023-09-20 14:40:29.270  INFO 17104 --- [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-09-20 14:40:29.273  INFO 17104 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2023-09-20 14:40:29.289  INFO 17104 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2023-09-20 14:53:37.956  INFO 17740 --- [main] c.b.p.PruebabancounionApplicationTests   : Starting PruebabancounionApplicationTests using Java 11.0.12 on DESKTOP-C21STNM with PID 17740 (started by AndresCamilo in C:\Users\AndresCamilo\VisualStudioCode-workspace\BancoUnion\BancoUnion\pruebabancounion)
+2023-09-20 14:53:37.959  INFO 17740 --- [main] c.b.p.PruebabancounionApplicationTests   : No active profile set, falling back to 1 default profile: "default"
+2023-09-20 14:53:38.875  INFO 17740 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-09-20 14:53:39.007  INFO 17740 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 113 ms. Found 2 JPA repository interfaces.
+2023-09-20 14:53:39.879  INFO 17740 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2023-09-20 14:53:39.895  WARN 17740 --- [main] com.zaxxer.hikari.util.DriverDataSource  : Registered driver with driverClassName=oracle.jdbc.driver.OracleDriver was not found, trying direct instantiation.
+2023-09-20 14:53:40.458  INFO 17740 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2023-09-20 14:53:40.556  INFO 17740 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-09-20 14:53:40.644  INFO 17740 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.6.15.Final
+2023-09-20 14:53:40.901  INFO 17740 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-09-20 14:53:41.090  INFO 17740 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.Oracle12cDialect
+2023-09-20 14:53:41.917  INFO 17740 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-09-20 14:53:41.937  INFO 17740 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-09-20 14:53:42.661  WARN 17740 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-09-20 14:53:43.516  INFO 17740 --- [main] c.b.p.PruebabancounionApplicationTests   : Started PruebabancounionApplicationTests in 6.001 seconds (JVM running for 7.285)
+2023-09-20 14:53:43.763  INFO 17740 --- [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-09-20 14:53:43.773  INFO 17740 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2023-09-20 14:53:43.795  INFO 17740 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2023-09-20 14:53:57.900  INFO 4264 --- [main] c.b.p.PruebabancounionApplication        : Starting PruebabancounionApplication using Java 11.0.12 on DESKTOP-C21STNM with PID 4264 (C:\Users\AndresCamilo\VisualStudioCode-workspace\BancoUnion\BancoUnion\pruebabancounion\target\classes started by AndresCamilo in C:\Users\AndresCamilo\VisualStudioCode-workspace\BancoUnion\BancoUnion\pruebabancounion)
+2023-09-20 14:53:57.902  INFO 4264 --- [main] c.b.p.PruebabancounionApplication        : No active profile set, falling back to 1 default profile: "default"
+2023-09-20 14:53:58.857  INFO 4264 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-09-20 14:53:58.962  INFO 4264 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 91 ms. Found 2 JPA repository interfaces.
+2023-09-20 14:54:00.034  INFO 4264 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2023-09-20 14:54:00.059  INFO 4264 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-09-20 14:54:00.060  INFO 4264 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.79]
+2023-09-20 14:54:00.226  INFO 4264 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-09-20 14:54:00.226  INFO 4264 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2263 ms
+2023-09-20 14:54:00.525  INFO 4264 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2023-09-20 14:54:00.541  WARN 4264 --- [main] com.zaxxer.hikari.util.DriverDataSource  : Registered driver with driverClassName=oracle.jdbc.driver.OracleDriver was not found, trying direct instantiation.
+2023-09-20 14:54:00.966  INFO 4264 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2023-09-20 14:54:01.030  INFO 4264 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-09-20 14:54:01.114  INFO 4264 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.6.15.Final
+2023-09-20 14:54:01.371  INFO 4264 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-09-20 14:54:01.556  INFO 4264 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.Oracle12cDialect
+2023-09-20 14:54:02.464  INFO 4264 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-09-20 14:54:02.488  INFO 4264 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-09-20 14:54:02.965  WARN 4264 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-09-20 14:54:03.436  INFO 4264 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2023-09-20 14:54:03.455  INFO 4264 --- [main] c.b.p.PruebabancounionApplication        : Started PruebabancounionApplication in 6.122 seconds (JVM running for 6.849)
+2023-09-20 14:59:31.060  INFO 18268 --- [main] c.b.p.PruebabancounionApplicationTests   : Starting PruebabancounionApplicationTests using Java 11.0.12 on DESKTOP-C21STNM with PID 18268 (started by AndresCamilo in C:\Users\AndresCamilo\VisualStudioCode-workspace\BancoUnion\BancoUnion\pruebabancounion)
+2023-09-20 14:59:31.063  INFO 18268 --- [main] c.b.p.PruebabancounionApplicationTests   : No active profile set, falling back to 1 default profile: "default"
+2023-09-20 14:59:31.969  INFO 18268 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-09-20 14:59:32.050  INFO 18268 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 69 ms. Found 2 JPA repository interfaces.
+2023-09-20 14:59:32.835  INFO 18268 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2023-09-20 14:59:32.841  WARN 18268 --- [main] com.zaxxer.hikari.util.DriverDataSource  : Registered driver with driverClassName=oracle.jdbc.driver.OracleDriver was not found, trying direct instantiation.
+2023-09-20 14:59:33.480  INFO 18268 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2023-09-20 14:59:33.569  INFO 18268 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-09-20 14:59:33.658  INFO 18268 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.6.15.Final
+2023-09-20 14:59:33.865  INFO 18268 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-09-20 14:59:34.057  INFO 18268 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.Oracle12cDialect
+2023-09-20 14:59:35.066  INFO 18268 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-09-20 14:59:35.081  INFO 18268 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-09-20 14:59:35.841  WARN 18268 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-09-20 14:59:36.665  INFO 18268 --- [main] c.b.p.PruebabancounionApplicationTests   : Started PruebabancounionApplicationTests in 6.062 seconds (JVM running for 7.382)
+2023-09-20 14:59:36.908  INFO 18268 --- [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-09-20 14:59:36.912  INFO 18268 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2023-09-20 14:59:36.937  INFO 18268 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2023-09-20 15:07:25.243  INFO 16088 --- [main] c.b.p.PruebabancounionApplicationTests   : Starting PruebabancounionApplicationTests using Java 11.0.12 on DESKTOP-C21STNM with PID 16088 (started by AndresCamilo in C:\Users\AndresCamilo\VisualStudioCode-workspace\BancoUnion\BancoUnion\pruebabancounion)
+2023-09-20 15:07:25.248  INFO 16088 --- [main] c.b.p.PruebabancounionApplicationTests   : No active profile set, falling back to 1 default profile: "default"
+2023-09-20 15:07:26.204  INFO 16088 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-09-20 15:07:26.290  INFO 16088 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 83 ms. Found 2 JPA repository interfaces.
+2023-09-20 15:07:27.084  INFO 16088 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2023-09-20 15:07:27.084  WARN 16088 --- [main] com.zaxxer.hikari.util.DriverDataSource  : Registered driver with driverClassName=oracle.jdbc.driver.OracleDriver was not found, trying direct instantiation.
+2023-09-20 15:07:27.685  INFO 16088 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2023-09-20 15:07:27.775  INFO 16088 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-09-20 15:07:27.874  INFO 16088 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.6.15.Final
+2023-09-20 15:07:28.134  INFO 16088 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-09-20 15:07:28.320  INFO 16088 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.Oracle12cDialect
+2023-09-20 15:07:29.136  INFO 16088 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-09-20 15:07:29.136  INFO 16088 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-09-20 15:07:29.857  WARN 16088 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-09-20 15:07:30.736  INFO 16088 --- [main] c.b.p.PruebabancounionApplicationTests   : Started PruebabancounionApplicationTests in 5.958 seconds (JVM running for 7.165)
+2023-09-20 15:07:30.968  INFO 16088 --- [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-09-20 15:07:30.973  INFO 16088 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2023-09-20 15:07:30.990  INFO 16088 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2023-09-20 15:12:43.884  INFO 2108 --- [main] c.b.p.PruebabancounionApplication        : Starting PruebabancounionApplication using Java 11.0.12 on DESKTOP-C21STNM with PID 2108 (C:\Users\AndresCamilo\VisualStudioCode-workspace\BancoUnion\BancoUnion\pruebabancounion\target\classes started by AndresCamilo in C:\Users\AndresCamilo\VisualStudioCode-workspace\BancoUnion\BancoUnion\pruebabancounion)
+2023-09-20 15:12:43.888  INFO 2108 --- [main] c.b.p.PruebabancounionApplication        : No active profile set, falling back to 1 default profile: "default"
+2023-09-20 15:12:44.940  INFO 2108 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-09-20 15:12:45.054  INFO 2108 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 94 ms. Found 2 JPA repository interfaces.
+2023-09-20 15:12:46.039  INFO 2108 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2023-09-20 15:12:46.052  INFO 2108 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-09-20 15:12:46.053  INFO 2108 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.79]
+2023-09-20 15:12:46.210  INFO 2108 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-09-20 15:12:46.210  INFO 2108 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2251 ms
+2023-09-20 15:12:46.519  INFO 2108 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2023-09-20 15:12:46.528  WARN 2108 --- [main] com.zaxxer.hikari.util.DriverDataSource  : Registered driver with driverClassName=oracle.jdbc.driver.OracleDriver was not found, trying direct instantiation.
+2023-09-20 15:12:46.885  INFO 2108 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2023-09-20 15:12:46.956  INFO 2108 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-09-20 15:12:47.043  INFO 2108 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.6.15.Final
+2023-09-20 15:12:47.303  INFO 2108 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-09-20 15:12:47.500  INFO 2108 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.Oracle12cDialect
+2023-09-20 15:12:48.532  INFO 2108 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-09-20 15:12:48.546  INFO 2108 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-09-20 15:12:49.152  WARN 2108 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-09-20 15:12:49.663  INFO 2108 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2023-09-20 15:12:49.681  INFO 2108 --- [main] c.b.p.PruebabancounionApplication        : Started PruebabancounionApplication in 6.383 seconds (JVM running for 6.91)
+2023-09-20 15:34:48.297  INFO 2108 --- [http-nio-8080-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-09-20 15:34:48.297  INFO 2108 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-09-20 15:34:48.297  INFO 2108 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2023-09-20 15:36:42.698  INFO 19776 --- [main] c.b.p.PruebabancounionApplication        : Starting PruebabancounionApplication using Java 11.0.12 on DESKTOP-C21STNM with PID 19776 (C:\Users\AndresCamilo\VisualStudioCode-workspace\BancoUnion\BancoUnion\pruebabancounion\target\classes started by AndresCamilo in C:\Users\AndresCamilo\VisualStudioCode-workspace\BancoUnion\BancoUnion\pruebabancounion)
+2023-09-20 15:36:42.703  INFO 19776 --- [main] c.b.p.PruebabancounionApplication        : No active profile set, falling back to 1 default profile: "default"
+2023-09-20 15:36:43.623  INFO 19776 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-09-20 15:36:43.731  INFO 19776 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 80 ms. Found 2 JPA repository interfaces.
+2023-09-20 15:36:44.718  INFO 19776 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2023-09-20 15:36:44.718  INFO 19776 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-09-20 15:36:44.718  INFO 19776 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.79]
+2023-09-20 15:36:44.918  INFO 19776 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-09-20 15:36:44.918  INFO 19776 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2158 ms
+2023-09-20 15:36:45.251  INFO 19776 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2023-09-20 15:36:45.266  WARN 19776 --- [main] com.zaxxer.hikari.util.DriverDataSource  : Registered driver with driverClassName=oracle.jdbc.driver.OracleDriver was not found, trying direct instantiation.
+2023-09-20 15:36:45.666  INFO 19776 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2023-09-20 15:36:45.738  INFO 19776 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-09-20 15:36:45.839  INFO 19776 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.6.15.Final
+2023-09-20 15:36:46.081  INFO 19776 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-09-20 15:36:46.295  INFO 19776 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.Oracle12cDialect
+2023-09-20 15:36:47.303  INFO 19776 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-09-20 15:36:47.312  INFO 19776 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-09-20 15:36:47.802  WARN 19776 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-09-20 15:36:48.309  INFO 19776 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2023-09-20 15:36:48.326  INFO 19776 --- [main] c.b.p.PruebabancounionApplication        : Started PruebabancounionApplication in 6.227 seconds (JVM running for 6.96)
+2023-09-20 15:36:52.943  INFO 19776 --- [http-nio-8080-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-09-20 15:36:52.943  INFO 19776 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-09-20 15:36:52.943  INFO 19776 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2023-09-20 15:37:04.026  WARN 19776 --- [http-nio-8080-exec-4] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.bind.MethodArgumentNotValidException: Validation failed for argument [0] in public org.springframework.http.ResponseEntity<com.bancounion.pruebabancounion.dto.DepartmentDTO> com.bancounion.pruebabancounion.controller.DepartmentController.add(com.bancounion.pruebabancounion.dto.DepartmentDTO): [Field error in object 'departmentDTO' on field 'name': rejected value []; codes [NotBlank.departmentDTO.name,NotBlank.name,NotBlank.java.lang.String,NotBlank]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [departmentDTO.name,name]; arguments []; default message [name]]; default message [DepartmentDTO.name shouldn't be blank]] ]
+2023-09-20 15:37:09.335  INFO 19776 --- [http-nio-8080-exec-5] c.b.p.controller.DepartmentController    : Saving data by post: DepartmentDTO [id=0, name=Contabilidad]
+2023-09-20 15:37:24.091  INFO 19776 --- [http-nio-8080-exec-7] c.b.p.controller.DepartmentController    : Deleting data: DepartmentDTO [id=27, name=null]
+2023-09-20 15:37:32.439  INFO 19776 --- [http-nio-8080-exec-1] c.b.p.controller.EmployeeController      : Saving data by post: EmployeeDTO [id=0, name=Juan Camilo Diaz Correa, salary=1100000, department=Department [id=1, name=RRHH]]
+2023-09-20 15:37:44.334  INFO 19776 --- [http-nio-8080-exec-3] c.b.p.controller.EmployeeController      : Deleting data: EmployeeDTO [id=30, name=null, salary=0, department=null]
